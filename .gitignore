@@ -1,0 +1,8 @@
+/core/.env
+/venv/
+/db.sqlite3
+/apples/migrations/
+/react+django/src/App.tsx_org
+/react+django/src/App.tsx_org2
+/react+django/src/App.tsx_org3
+/react+django/index.html_org
